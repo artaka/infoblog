@@ -1,0 +1,154 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	width: 100%;
+	height: 100%;
+}
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+li{
+	list-style: none;
+}
+header{
+	width: 100%;
+	background #f8fafb;
+	display: flex;
+}
+.header_logo{
+	text-transform: uppercase;
+	color: black;
+	font-weight: 400;
+	font-size: 11px;
+	cursor: pointer;
+	margin-top: 57px;
+	margin-left: 9%;
+}
+nav {
+	margin-top: 57px;
+}
+.nav1 {
+	color: black;
+	text-align: center;
+	padding-top: 12px;
+	margin-left: 10%;
+}
+.amenu {
+	padding-right: 32px;
+	color: black;
+}
+#mail {
+	color: Red;
+	margin-top: 23px;
+	margin-left: 600px;
+	text-decoration: underline;
+}
+#rectangle {
+    width: 140px;
+    height: 67px;
+    background: #d9ccbc;
+}
+.galerytxt {
+	margin-left: 90px;
+}
+.pram {
+	margin-left: 40px;
+	margin-top: 49px;
+}
+.galery {
+	display: inline-block;
+}
+.nav2 {
+	display: flex;
+	margin-left: 12%;
+	width: 22.5%;
+}
+.menu {
+	color: white;
+	background-color: red;
+	border: 1px red solid;
+	border-radius: 2px;
+	margin: 0px 7px 0px 7px;
+}
+#arhiv {
+	margin-left: 40px;
+	padding: 19.5px 91.5px 19.5px 91.5px;
+}
+#resurs{
+	padding: 19.5px 82.5px 19.5px 82.5px;
+}
+#obzor {
+	padding: 19.5px 84px 19.5px 84px;
+}
+#finans {
+	padding: 8.5px 65px 8.5px 65px;
+}
+#lcontext {
+	max-width: 187px;
+	margin-top: 10px;
+}
+.sidebar {
+	margin-top: 51px;
+	margin-left: 48px;
+	width: 22%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 1000;
+}
+.leftcont {
+	margin-top: 20px;
+}
+#date {
+	margin-top: 12px;
+	color: Red;
+}
+#podr {
+	margin-top: 10px;
+	color: Red;	
+	text-decoration: underline;
+}
+#apodr {
+	display: inline-block;
+}
+#imgnw {
+	width: 800px;
+	height: 380px;
+}
+#news {
+	margin-left: 270px;
+	max-width: 900px;
+	margin-top: 46px;
+	width: 78%;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+#p2 {
+	margin-top: 18px;
+}
+#p1 {
+	margin-top: 14px;
+}
+#arrow {
+	margin-top: 999px;
+	font-size: 30px;
+	margin-left: 49%;
+	color: black;
+}
+footer {
+	width: 100%;
+	background-color: red;
+	text-align: center;
+	height: 57px;
+	margin-top: 20px;
+	color: white;
+	padding-top: 10px;
+}
+footer a {
+	color: white;
+}
